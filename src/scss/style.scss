@@ -1,9 +1,9 @@
 $bg1:#2b2c2c;
 $bg2:#292a2a;
-$color1:#979899;
-$light:#e0a80d;
+$color1:#e5da59;
+$light:#a5e12d;
 $border:#404242;
-$text-gray:#757575;
+$text-gray:#FFFFFF;
 
 
 @import "common";
@@ -89,6 +89,7 @@ $text-gray:#757575;
       flex-direction: column;
     }
     .title{
+      color: #F8254B;
       font-size: 1.5rem;
       small{
         font-size: 1rem;
@@ -243,6 +244,9 @@ $text-gray:#757575;
   h4{
     margin-top:0.3rem;
     margin-bottom: 0.8rem;
+  }
+  address{
+    font-style: normal;
   }
 }
 

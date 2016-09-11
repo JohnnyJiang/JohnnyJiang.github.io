@@ -16,7 +16,7 @@
     "html-webpack-plugin": "^2.22.0",
     "raw-loader": "^0.5.1",
     "sass-loader": "^4.0.0",
-    "webpack": "^1.13.1",
+    "webpack": "^1.13.2",
     "webpack-dev-server": "^1.14.1",
     "webpack-livereload-plugin": "^0.8.1"
   },

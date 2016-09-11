@@ -4,97 +4,98 @@
   "firstName":"Johnny",
   "lastName":"Jiang",
   "slogan":"追求简单者",
-  "location":"Guangzhou·China",
+  "location":"广东省广州市",
   "qq":{
     "number":"530861820"
   },
   "website":"http://www.ourdays.site",
   "email":"jiangyuheng_hk@163.com",
   "intro":[
-    "<span class='text-light'>1992年</span>8月生于<span class='text-light'>湖北</span>·十堰。毕业三年工作四年。为人低调，做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
-    "性格偏内向。但在熟悉的朋友面前会无话不谈。习惯于有条理的做事说话。",
-    "没事的时候，喜欢打打dota，下下象棋，写写代码做点小东西。"
+    "<span class='text-light'>1992年</span>6月生于吉林·磐石，2岁随父母到天津，高中迁居<span class='text-light'>北京<span>，北京户籍，现居广州。",
+    "爱好篮球和吉他，喜欢的音乐是Dubstep/Chillstep。",
+    "追求简单干净快捷，喜欢的游戏是炉石传说。"
   ],
   "experience":[
     {
-      "time":"2012-2013年",
-      "title":"先后在湖北武汉/十堰工作",
-      "intro":"其中包括1年的实习时间",
-      "description":"毕业于武汉软件工程职业技术学院。先后在武汉和老家湖北十堰工作一年。期间，主要精力用于钻研一个基于php的cms：drupal。与此同时，学会了drupal以及wordpress之类的cms的常用操作。"
+      "time":"2014-2015年",
+      "title":"北京联宇益通科技发展有限公司",
+      "intro":"实习运维工程师",
+      "description":"毕业于南开大学信息技术科学学院，实习期间主要接触linux服务器集群的管理，服务器策略配置。学会了编写shell脚本，对TCP/IP加深了很多了解。"
     },
     {
-      "time":"2014年",
-      "title":"上海传斐信息技术有限公司",
-      "intro":"前端开发",
-      "description":"14年年初，来到上海，就职于传斐科技信息有限公司。从事前端开发方面工作。期间，主要精力放在基础的js知识学习。同时也学习了一些产品设计的思维与技巧。"
+      "time":"2015年-2016年",
+      "title":"香港中文大学",
+      "intro":"Information Engineering",
+      "description":"拿到MScIE的学位，期间做了很多项目，扩展了技术栈。学了iOS和安卓开发，服务器端的Python（Flask框架）开发，Mysql和Hadoop/Spark环境搭建"
     },
     {
-      "time":"2015年-今",
-      "title":"云知声信息技术有限公司上海分舵",
-      "intro":"前端开发",
-      "description":"15年年初，加入北京云知声信息技术有限公司上海分舵。从事前端开发至今。期间，大部分精力都用户钻研前端的工程化。代码从css转到less，代码管理工具从svn转到git。学习了nodejs，熟悉了gulp。基于gulp做了很多前端自动化构建的工具。同时，也学习和使用了一些前端框架如：angular、vuejs等。"
+      "time":"2016年2月",
+      "title":"电商平台用户行为研究",
+      "intro":"数据处理分析",
+      "description":"16年年初，抓取淘宝、亚马逊、twitter和weibo上购买相机的用户的评论,通过词频、情感语义打分和关键词分析来判断用户偏好和用户需求,对比不同平台用户的不同关注点,数据量在20000条评论左右。主要工作:负责对爬取下来的数据统计词频,编写程序对评论进行分词,情感语义打分和关键词分析，使用的技术有Hadoop和Python。"
     },
     {
-      "time":"自毕业后",
-      "title":"个人网站",
-      "intro":"全栈开发的学习与研究",
-      "description":"自毕业后一直创建与维护一个个人网站。在学nodejs之前，是基于drupal做的。自己独立开发的主题，广受欢迎。在学习了nodejs后，后端基于nodejs的express框架前端基于google的angularjs框架重做了一遍。全站为单页面应用。历时1年。同时也学会了mongodb的一些常规操作和配置。"
+      "time":"2016年4月",
+      "title":"Ourdays",
+      "intro":"安卓APP开发",
+      "description":"面向情侣用户的客户端，采用MVC设计模式开发，实现的功能有文本和图片传输，实时定位和纪念日提醒等功能，完整设计用户流程，开发工作包括机客户端开发,服务器端API开发,Mysql数据库存储查询和nginx网页服务器开发，项目代码已上传Github。"
     }
   ],
   "skill":[
     {
-      "name":"Css",
-      "percent":"80%"
-    },
-    {
-      "name":"PhotoShop",
+      "name":"Android",
       "percent":"70%"
     },
     {
-      "name":"JavaScript",
+      "name":"Mysql",
+      "percent":"70%"
+    },
+    {
+      "name":"Java",
       "percent":"60%"
     },
     {
-      "name":"Nodejs",
+      "name":"Python",
       "percent":"60%"
     },
     {
-      "name":"MongoDB",
+      "name":"CSS",
       "percent":"50%"
     },
     {
-      "name":"PHP",
-      "percent":"30%"
+      "name":"Javascript",
+      "percent":"40%"
     }
   ],
   "usually":[
     {
       "name":"GitHub",
-      "link":"https://github.com/eternityspring",
-      "description":"分享一些我的小作品 结交志同道合的朋友"
+      "link":"https://github.com/JohnnyJiang",
+      "description":"发现新奇"
     },
     {
-      "name":"知乎",
-      "link":"https://www.zhihu.com/people/790313188",
-      "description":"搜索解决一些疑问 探索新奇"
+      "name":"简书",
+      "link":"http://www.jianshu.com/users/5efb66760323",
+      "description":"学习和分享"
     },
     {
-      "name":"MDN",
-      "link":"https://developer.mozilla.org",
-      "description":"查阅一些技术文档"
+      "name":"V2EX",
+      "link":"https://www.v2ex.com",
+      "description":"Geek混的论坛"
     },
     {
-      "name":"Behance",
-      "description":"寻找灵感探索新奇"
+      "name":"堆糖",
+      "link":"http://www.duitang.com",
+      "description":"简单的生活"
     },
     {
       "name":"Dribbble",
-      "link":"https://dribbble.com/eternityspring",
-      "description":"寻找灵感探索新奇"
+      "link":"https://dribbble.com",
+      "description":"寻找设计灵感"
     },
     {
       "name":"CodePen",
-      "link":"http://codepen.io/eternityspring",
+      "link":"http://codepen.io",
       "description":"探索和分享好的代码"
     }
   ]
